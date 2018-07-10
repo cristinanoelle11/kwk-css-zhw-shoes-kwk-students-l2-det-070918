@@ -39,6 +39,8 @@ height: 30%;
 .skate{
    width: 30%;
 height: 30%;
+position:relative;
+  left:200px;
 }
 .heel{
    width: 30%;
