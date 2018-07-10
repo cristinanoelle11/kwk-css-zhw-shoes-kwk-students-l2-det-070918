@@ -21,6 +21,13 @@
 .clear {
   clear: both;
 }
-
+.shadow {
+ width: 60%;
+height: 40%;
+}
+.archive-list{
+  width: 10%;
+height: 40%;
+}
 /* Posititoning Classes */
 
