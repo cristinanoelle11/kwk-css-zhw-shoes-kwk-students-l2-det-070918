@@ -32,5 +32,17 @@ position:relative;
   left:650px;
   bottom:571px;
 }
+.ladybug{
+  width: 100%;
+height: 100%;
+}
+.skate{
+   width: 100%;
+height: 100%;
+}
+.heel{
+   width: 100%;
+height: 100%;
+}
 /* Posititoning Classes */
 
