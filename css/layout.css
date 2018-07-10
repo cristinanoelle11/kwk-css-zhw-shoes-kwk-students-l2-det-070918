@@ -35,6 +35,8 @@ position:relative;
 .ladybug{
   width: 30%;
 height: 30%;
+position:relative;
+bottom:300px;
 }
 .skate{
    width: 30%;
