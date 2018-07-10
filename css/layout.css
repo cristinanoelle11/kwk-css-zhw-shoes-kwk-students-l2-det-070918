@@ -28,6 +28,9 @@ height: 40%;
 .archive-list{
   width: 40%;
 height: 40%;
+position:relative;
+  top:80%;
+  left:45px;
 }
 /* Posititoning Classes */
 
