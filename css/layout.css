@@ -21,6 +21,36 @@
 .clear {
   clear: both;
 }
-
+.shadow {
+ width: 60%;
+height: 40%;
+}
+.archive-list{
+  width: 40%;
+height: 40%;
+position:relative;
+  left:650px;
+  bottom:575px;
+}
+.ladybug{
+  width: 30%;
+height: 40%;
+position:relative;
+bottom:500px;
+}
+.skate{
+   width: 30%;
+height: 40%;
+position:relative;
+  left:360px;
+  bottom:864px;
+}
+.heel{
+   width: 30%;
+height: 40%;
+position:relative;
+  left:750px;
+  bottom:1230px;
+}
 /* Posititoning Classes */
 
